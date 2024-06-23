@@ -39,6 +39,12 @@ async function showNews() {
   maxlen = lenlist;
 
 
+if(index==1){
+  btn2.style.display='none';
+}
+else{
+  btn2.style.display='block';
+}
 
 
 
